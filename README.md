@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Sangam Kushwaha
+<h1 align="center"> 👋 Hi, I'm Sangam Kushwaha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Software+Developer;AI+Application+Builder;Python+%7C+Flask+%7C+AI+Agents;Building+Practical+Software+Projects" alt="Typing SVG" />
+</p>
 
 I'm a **Computer Science Engineering student from the 2027 graduating batch**, passionate about **software development, backend engineering, AI-powered applications, and problem solving**.
 
@@ -276,6 +280,4 @@ I'm always interested in connecting with developers, engineers, AI enthusiasts a
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Software+Developer;AI+Application+Builder;Python+%7C+Flask+%7C+AI+Agents;Building+Practical+Software+Projects" alt="Typing SVG" />
-</p>
+
