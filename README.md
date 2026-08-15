@@ -56,17 +56,6 @@ I've worked on projects such as **AI-Based Student Dropout Prediction & Counseli
 
 ---
 
-### 🤖 AI Resume Screening System
-
-`Python` • `NLP` • `Machine Learning` • `AI`
-
-* Built an AI-powered system for **automated resume analysis and screening**.
-* Explored NLP-based techniques for extracting useful information from resumes.
-* Designed functionality to help evaluate and shortlist candidates.
-* Focused on applying AI to a practical recruitment workflow.
-
----
-
 ### 💬 AI Chatbot
 
 `Python` • `Gemini API` • `Wikipedia API` • `SerpAPI` • `HTML` • `CSS` • `JavaScript`
@@ -200,24 +189,6 @@ I've worked on projects such as **AI-Based Student Dropout Prediction & Counseli
 * 👨‍🏫 Counseling Support
 * 🗄️ Database Integration
 
----
-
-### 🤖 **AI Resume Screening System**
-
-`Python` `NLP` `Machine Learning` `AI`
-
-> An AI-powered recruitment solution designed to analyze resumes and assist with candidate screening and shortlisting.
-
-#### ✨ Key Features
-
-* 📄 Resume Analysis
-* 🧠 NLP-Based Processing
-* 🎯 Candidate Screening
-* ⭐ Candidate Ranking
-* 📋 Information Extraction
-* 🤖 AI-Powered Recruitment
-
----
 
 ### 💬 **AI Chatbot**
 
